@@ -1,0 +1,13 @@
+C:\Users\claudio\Desktop\ExampleDecoratorPattern-master\ExampleDecoratorPattern-master\bin\Debug\netcoreapp3.1\ExampleDecoratorPattern.exe
+C:\Users\claudio\Desktop\ExampleDecoratorPattern-master\ExampleDecoratorPattern-master\bin\Debug\netcoreapp3.1\ExampleDecoratorPattern.deps.json
+C:\Users\claudio\Desktop\ExampleDecoratorPattern-master\ExampleDecoratorPattern-master\bin\Debug\netcoreapp3.1\ExampleDecoratorPattern.runtimeconfig.json
+C:\Users\claudio\Desktop\ExampleDecoratorPattern-master\ExampleDecoratorPattern-master\bin\Debug\netcoreapp3.1\ExampleDecoratorPattern.runtimeconfig.dev.json
+C:\Users\claudio\Desktop\ExampleDecoratorPattern-master\ExampleDecoratorPattern-master\bin\Debug\netcoreapp3.1\ExampleDecoratorPattern.dll
+C:\Users\claudio\Desktop\ExampleDecoratorPattern-master\ExampleDecoratorPattern-master\bin\Debug\netcoreapp3.1\ExampleDecoratorPattern.pdb
+C:\Users\claudio\Desktop\ExampleDecoratorPattern-master\ExampleDecoratorPattern-master\obj\Debug\netcoreapp3.1\ExampleDecoratorPattern.csprojAssemblyReference.cache
+C:\Users\claudio\Desktop\ExampleDecoratorPattern-master\ExampleDecoratorPattern-master\obj\Debug\netcoreapp3.1\ExampleDecoratorPattern.AssemblyInfoInputs.cache
+C:\Users\claudio\Desktop\ExampleDecoratorPattern-master\ExampleDecoratorPattern-master\obj\Debug\netcoreapp3.1\ExampleDecoratorPattern.AssemblyInfo.cs
+C:\Users\claudio\Desktop\ExampleDecoratorPattern-master\ExampleDecoratorPattern-master\obj\Debug\netcoreapp3.1\ExampleDecoratorPattern.csproj.CoreCompileInputs.cache
+C:\Users\claudio\Desktop\ExampleDecoratorPattern-master\ExampleDecoratorPattern-master\obj\Debug\netcoreapp3.1\ExampleDecoratorPattern.dll
+C:\Users\claudio\Desktop\ExampleDecoratorPattern-master\ExampleDecoratorPattern-master\obj\Debug\netcoreapp3.1\ExampleDecoratorPattern.pdb
+C:\Users\claudio\Desktop\ExampleDecoratorPattern-master\ExampleDecoratorPattern-master\obj\Debug\netcoreapp3.1\ExampleDecoratorPattern.genruntimeconfig.cache
